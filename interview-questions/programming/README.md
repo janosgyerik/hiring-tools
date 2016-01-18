@@ -94,7 +94,7 @@ Java questions
 ### TODO
 
 - Name some methods of `Object`
-- 
+- Explain the usage of `equals` and `hashCode`
 
 TODO
 ----
