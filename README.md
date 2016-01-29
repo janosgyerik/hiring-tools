@@ -1,9 +1,9 @@
 Hiring tools
 ============
 
-This is an evolving collection of Hiring tools:
-interview guides, job description templates, example homework questions,
-example interview questions, competency checklists
+This is an evolving collection of hiring tools:
+interview playbooks, job description templates, example homework questions,
+example interview questions, competency checklists.
 
 How to hire a programmer?
 -------------------------
@@ -15,7 +15,7 @@ by trying to answer these smaller questions:
 - How to tell who is a good programmer?
 - How to manage the recruiting process efficiently?
 
-These can be further broken down.
+These can be broken down further to smaller pieces.
 However, there are no simple deterministic answers, to any of this.
 
 The overall recruiting process
@@ -23,10 +23,10 @@ The overall recruiting process
 
 Every position is different, but these are common elements:
 
-1. Attract good programmers
-   - The offer letter
-   - The Joel Test
-   - The marketing channel
+1. Attracting good programmers
+   - Write a rock solid interesting offer letter
+   - Score high on the Joel Test
+   - Get noticed (market yourself well)
 
 2. Selecting good programmers
    - Homework assignments
@@ -39,7 +39,7 @@ Every position is different, but these are common elements:
 
 To put it simply:
 
-1. Write a kick-ass offer letter. Make it look exciting.
+1. Write a kick-ass offer letter. It has to look exciting.
    Ask another person to review it. 
    Force another person to either suggest improvements or sign a document
    that says the job offer is perfect in his view.
