@@ -41,10 +41,10 @@ To put it simply:
 
 1. Write a kick-ass offer letter. It has to look exciting.
    Ask another person to review it. 
-   Force another person to either suggest improvements or sign a document
+   Ask another person to either suggest improvements or sign a document
    that says the job offer is perfect in his view.
 
-2. Include the Joel Test in the offer letter if scoring 8 or more.
+2. Include the Joel Test in the offer letter if your score is 8 or more.
 
 3. Think about what makes your workplace great and fun and include it,
    for example:
@@ -60,20 +60,20 @@ To put it simply:
 
 1. [Decide the selection process appropriate for the project](selection-process/README.md)
 2. [Ask candidates to complete a homework assignment](selection-process/homework-assignments.md)
-3. [Ask candidates to do a phone interview first](selection-process/phone-interviews.md)
-4. [Handling in-person interviews](selection-process/interviews.md)
+3. [Ask candidates to do a phone interview](selection-process/phone-interviews.md)
+4. [Handling the in-person interview](selection-process/interviews.md)
 
 ### The final evaluation
 
 When the decision to hire is not a clear YES, then it's a NO.
-Most certainly the ocean is full of fish. When in doubt, just keep fishing.
+The ocean is big. If there is a shred of doubt, then keep fishing.
 
 How to contribute to this project?
 ----------------------------------
 
 The documents and files in this repository are a work in progress.
-They are mostly suggestions and rules of thumbs.
-They are intended to evolve.
+They are suggestions and rules of thumbs.
+They are meant to evolve.
 So if you have improvement ideas, please feel free to propose,
 contact in person, or even better: send a merge request.
 
