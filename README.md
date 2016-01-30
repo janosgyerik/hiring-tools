@@ -68,6 +68,13 @@ To put it simply:
 When the decision to hire is not a clear YES, then it's a NO.
 The ocean is big. If there is a shred of doubt, then keep fishing.
 
+Work in progress
+----------------
+
+This is a work in progress.
+There are many documents not well linked.
+Look around in the files of the repository rather following links.
+
 How to contribute to this project?
 ----------------------------------
 
