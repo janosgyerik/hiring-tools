@@ -25,9 +25,7 @@ Conducting the coding test
 --------------------------
 
 - Get to the coding exercise early in the interview.
-  It reduces the stress on the candidate,
-  and if the exercise doesn't go well,
-  you might want to end the interview early.
+  It reduces the stress on the candidate to get this done first.
 
 - The candidate should solve using pen and paper, or on a whiteboard
 
