@@ -37,8 +37,6 @@ A: 1xx, 2xx, 3xx, 4xx, 5xx
 - 4xx: client error
 - 5xx: server error
 
-Extra credit (and fun) for knowing "Error 418 - I'm a teapot".
-
 ---
 
 Q: Consider this URI scheme:
