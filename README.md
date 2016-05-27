@@ -41,12 +41,12 @@ Every company and position is different, but these are common elements:
 
 To put it simply:
 
-1. Write a kick-ass offer letter. It has to look exciting.
+1. Write a kick-ass job description. It has to look exciting.
    Ask another person to review it. 
    Ask another person to either suggest improvements or sign a document
-   that says the job offer is perfect in his view.
+   that says the job is perfect in his view.
 
-2. Include the Joel Test in the offer letter if your score is 8 or more.
+2. Include the Joel Test in the job posting if your score is 8 or more.
 
 3. Think about what makes your workplace great and fun and include it,
    for example:
