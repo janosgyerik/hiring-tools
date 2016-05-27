@@ -21,17 +21,19 @@ However, there are no simple deterministic answers, to any of this.
 The overall recruiting process
 -------------------------------
 
-Every position is different, but these are common elements:
+Every company and position is different, but these are common elements:
 
-1. Attracting good programmers
-   - Write a rock solid interesting offer letter
+1. Attract good programmers
+
+   - Write a rock solid interesting job description
    - Score high on the Joel Test
-   - Get noticed (market yourself well)
+   - Get noticed (market yourself well, and on the right channels)
 
-2. Selecting good programmers
-   - Homework assignments
-   - Phone interviews
-   - In-person interviews
+2. Select good programmers
+
+   - Ask to code a homework assignment
+   - Interview over the phone/skype
+   - Interview in person
 
 3. The final evaluation
 
