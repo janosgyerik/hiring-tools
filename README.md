@@ -71,7 +71,7 @@ and a task that should be largely within your control.
 1. [Decide the selection process appropriate for the project](selection-process/README.md)
 2. [Ask candidates to complete a homework assignment](selection-process/homework-assignments.md)
 3. [Ask candidates to do a phone interview](selection-process/phone-interviews.md)
-4. [Handling the in-person interview](selection-process/interviews.md)
+4. [The in-person interview playbook](selection-process/interviews.md)
 
 ### The final decistion: hire or not?
 
