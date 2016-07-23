@@ -11,12 +11,12 @@ How to hire a programmer?
 This repository aims to help answering this main question,
 by trying to answer these smaller questions:
 
-- How to make good programmers come to you?
-- How to tell who is a good programmer?
+- How to attract good programmers?
+- How to tell if a candidate is a good programmer?
 - How to manage the recruiting process efficiently?
 
 These can be broken down further to smaller pieces.
-However, there are no simple deterministic answers, to any of this.
+However, there are no one-site-fits-all answers to any of this.
 
 The overall recruiting process
 -------------------------------
