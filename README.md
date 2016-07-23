@@ -1,9 +1,9 @@
 Hiring tools
 ============
 
-This is an evolving collection of hiring tools:
-interview playbooks, job description templates, example homework questions,
-example interview questions, competency checklists.
+An evolving collection of hiring tools,
+example homework questions, interview playbooks,
+interview questions, checklists.
 
 How to hire a programmer?
 -------------------------
