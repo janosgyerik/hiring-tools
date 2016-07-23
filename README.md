@@ -27,7 +27,8 @@ Every company and position is different, but some elements are likely common:
 
     - Write a rock-solid and interesting job description
     - Make sure you score high on the Joel Test
-    - Market the position well, and on the right channels
+    - Present the workplace well
+    - Market the position on the right channels
 
 2. Select good programmers: smart and gets things done
 
@@ -50,12 +51,18 @@ and a task that should be largely within your control.
 2. Include the Joel Test in the job posting if your score is 8 or more.
    (Otherwise make a note to start making serious changes at your workplace.)
 
-3. Think of everything that makes your workplace great and fun and include it,
-   for example:
+3. Think of everything that makes your workplace great and fun and include it.
+   For example:
    - open-space / private offices
    - high-quality chairs
    - bookshelf with great books
    - brown bag lunches, lightning talks, hackathons
+
+4. Market the position on channels where good programmers are likely to look.
+   For example:
+   - Stack Overflow Jobs
+   - Software Craftmanship meetups
+   - Other geeky events and conferences
 
 ### Selecting good programmers
 
