@@ -25,15 +25,15 @@ Every company and position is different, but some elements are likely common:
 
 1. Attract good programmers
 
-   - Write a rock-solid and interesting job description
-   - Make sure you score high on the Joel Test
-   - Market the position well, and on the right channels
+    - Write a rock-solid and interesting job description
+    - Make sure you score high on the Joel Test
+    - Market the position well, and on the right channels
 
 2. Select good programmers
 
-   - Ask to code a homework assignment
-   - Interview over the phone/skype
-   - Interview in person
+    - Ask to code a homework assignment
+    - Interview over the phone/skype
+    - Interview in person
 
 3. The final evaluation
 
