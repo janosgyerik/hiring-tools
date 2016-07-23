@@ -39,22 +39,23 @@ Every company and position is different, but some elements are likely common:
 
 ### Attracting good programmers
 
-To put it simply:
+If you cannot make good programmers come to you,
+there will be no good candidates to select from.
+This is a critical task for every hiring manager,
+and a task that should be largely within your control.
 
-1. Write a kick-ass job description. It has to look exciting.
-   Ask another person to review it. 
-   Ask another person to either suggest improvements or sign a document
-   that says the job is perfect in his view.
+1. Write a kick-ass job description. Make it exciting.
+   Ask at least two teammates to review it. 
 
 2. Include the Joel Test in the job posting if your score is 8 or more.
+   (Otherwise make a note to start making serious changes at your workplace.)
 
-3. Think about what makes your workplace great and fun and include it,
+3. Think of everything that makes your workplace great and fun and include it,
    for example:
    - open-space / private offices
    - high-quality chairs
-   - bookshelf with relevant literature
-   - brown bag lunches
-   - nerfs
+   - bookshelf with great books
+   - brown bag lunches, lightning talks, hackathons
 
 ### Selecting good programmers
 
