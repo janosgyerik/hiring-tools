@@ -29,7 +29,7 @@ Every company and position is different, but some elements are likely common:
     - Make sure you score high on the Joel Test
     - Market the position well, and on the right channels
 
-2. Select good programmers
+2. Select good programmers: smart and gets things done
 
     - Ask to implement a program as a homework assignment
     - Ask to solve a programming question over the phone/skype
