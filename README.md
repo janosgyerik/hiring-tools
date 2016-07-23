@@ -35,7 +35,7 @@ Every company and position is different, but some elements are likely common:
     - Ask to solve a programming question over the phone/skype
     - Ask to solve a programming question at the in-person interview
 
-3. The final evaluation
+3. The final decistion: hire or not?
 
 ### Attracting good programmers
 
@@ -65,10 +65,12 @@ To put it simply:
 3. [Ask candidates to do a phone interview](selection-process/phone-interviews.md)
 4. [Handling the in-person interview](selection-process/interviews.md)
 
-### The final evaluation
+### The final decistion: hire or not?
 
 When the decision to hire is not a clear YES, then it's a NO.
-The ocean is big. If there is a shred of doubt, then keep fishing.
+Whatever circumstances might pressure you to a fast decision,
+resist it.
+Wait as long as necessary.
 
 Work in progress
 ----------------
