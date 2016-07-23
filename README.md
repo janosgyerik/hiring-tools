@@ -21,13 +21,13 @@ However, there are no one-site-fits-all answers to any of this.
 The overall recruiting process
 -------------------------------
 
-Every company and position is different, but these are common elements:
+Every company and position is different, but some elements are likely common:
 
 1. Attract good programmers
 
-   - Write a rock solid interesting job description
-   - Score high on the Joel Test
-   - Get noticed (market yourself well, and on the right channels)
+   - Write a rock-solid and interesting job description
+   - Make sure you score high on the Joel Test
+   - Market the position well, and on the right channels
 
 2. Select good programmers
 
