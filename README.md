@@ -31,9 +31,9 @@ Every company and position is different, but some elements are likely common:
 
 2. Select good programmers
 
-    - Ask to code a homework assignment
-    - Interview over the phone/skype
-    - Interview in person
+    - Ask to implement a program as a homework assignment
+    - Ask to solve a programming question over the phone/skype
+    - Ask to solve a programming question at the in-person interview
 
 3. The final evaluation
 
