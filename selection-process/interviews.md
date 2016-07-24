@@ -1,5 +1,5 @@
-The in-person interview playbook
-================================
+The in-person interview
+=======================
 
 Two themes should be running constantly throughout the entire interview:
 
