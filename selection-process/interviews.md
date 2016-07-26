@@ -1,10 +1,11 @@
 The in-person interview
 =======================
 
-Two themes should be running constantly throughout the entire interview:
+Three themes should be running constantly throughout the entire interview:
 
 1. Treat the candidate as a rockstar.
 2. Present your workplace and the position in the best possible light.
+3. Is the candidate smart and gets things done?
 
 Preparation
 -----------
