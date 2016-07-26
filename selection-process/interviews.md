@@ -34,6 +34,12 @@ Start by asking about recent experience.
 Try to find something the candidate is passionate about.
 What was interesting?
 What was difficult?
+This is not a test.
+Show real interest and curiosity to the candidate's recent work.
+
+Once the candidate is relaxed enough,
+you can start asking the questions you really want:
+questions that will reveal if the candidate is smart and gets things done.
 
 TODO
 
